@@ -1,19 +1,19 @@
-sudo pacman -Ssy git
+```sudo pacman -Ssy git```
 
-sudo -sH (for root access)
+```sudo -sH``` ####(for root access)
 
-git clone (repo link of setoolkit)
+```git clone``` ####(repo link of setoolkit)
 
-cd /opt 
+```cd /opt``` 
 
-python setup.py install
+```python setup.py install```
 
-cd
+```cd```
 
-sudo -sH
+```sudo -sH```
 
-cd /opt
+```cd /opt```
 
-python settoolkit
+```python settoolkit```
 
 
