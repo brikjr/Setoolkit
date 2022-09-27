@@ -3,10 +3,10 @@
 ```sudo pacman -Ssy git```
 
 ```sudo -sH``` 
-####(for root access)
+###### (for root access)
 
 ```git clone``` 
-####(repo link of setoolkit)
+###### (repo link of setoolkit)
 
 ```cd /opt``` 
 
