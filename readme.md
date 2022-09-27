@@ -5,8 +5,7 @@
 ###### (for root access)
 ```sudo -sH```
 
-###### (repo link of setoolkit)
-```git clone``` 
+###### (repo link of setoolkit) ```git clone``` 
 
 ```cd /opt``` 
 
