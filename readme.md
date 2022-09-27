@@ -1,8 +1,12 @@
+## DO NOT USE IT FOR SPAMMING!
+
 ```sudo pacman -Ssy git```
 
-```sudo -sH``` ####(for root access)
+```sudo -sH``` 
+####(for root access)
 
-```git clone``` ####(repo link of setoolkit)
+```git clone``` 
+####(repo link of setoolkit)
 
 ```cd /opt``` 
 
